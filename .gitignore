@@ -18,7 +18,8 @@ build/
 .env.production.local
 
 # IDE files
-.vscode/
+.vscode/*
+!.vscode/extensions.json
 .idea/
 *.swp
 *.swo
